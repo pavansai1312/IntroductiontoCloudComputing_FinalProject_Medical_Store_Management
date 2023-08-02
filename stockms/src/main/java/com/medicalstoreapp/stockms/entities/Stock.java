@@ -6,6 +6,13 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**
+ * 
+ * @author Pavan Sai
+ *
+ *         Entity Class for Stock Module
+ */
+
 @Entity
 public class Stock {
 	@GeneratedValue
