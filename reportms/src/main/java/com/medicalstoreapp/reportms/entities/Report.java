@@ -13,6 +13,12 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 import com.medicalstoreapp.reportms.constants.ReportType;
+/**
+ * 
+ * @author Pavan Sai
+ *
+ *         Entity Class for Report Module
+ */
 
 @Entity
 public class Report {
