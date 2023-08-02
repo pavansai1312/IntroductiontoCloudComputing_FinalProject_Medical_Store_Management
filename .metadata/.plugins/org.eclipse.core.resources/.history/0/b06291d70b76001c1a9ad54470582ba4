@@ -1,7 +1,8 @@
 package com.medicalstoreapp.reportms.dto;
 
 public class OrderDetails {
-	
+
+
 	private Long orderId;
 	private String orderDate;
 	private Double orderPrice;
