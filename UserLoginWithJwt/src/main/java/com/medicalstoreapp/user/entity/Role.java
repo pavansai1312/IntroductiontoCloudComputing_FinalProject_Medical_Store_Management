@@ -3,6 +3,13 @@ package com.medicalstoreapp.user.entity;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+/**
+ * 
+ * @author Pavan Sai
+ *
+ *         Entity Class for Role details in Login Module
+ */
+
 @Entity
 public class Role {
 	
