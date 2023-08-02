@@ -10,7 +10,7 @@ import javax.persistence.Id;
 
 /**
  * 
- * @author pavan. Abhipsa
+ * @author Pavan Sai
  *
  * Entity Class for Supplied Stock Module
  */
